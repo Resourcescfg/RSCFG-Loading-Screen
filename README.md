@@ -14,3 +14,7 @@ Hvis du ikke forstår det eller ja bare vil have hjælp så kan i joine vores di
 # Credits
 
 Resources.cfg
+
+# Billede
+
+Billedet er på discorden! https://discord.gg/kGY92g5kVV
